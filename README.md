@@ -12,19 +12,19 @@ Applying for Part time trainer role - Azure and GCP Cloud Platforms
 
 Hi Team,
 
-I'm Vignesh with 5+years of work experience as both Data Engineer and Data Scientist currently working in Deloitte. I predominantly work in cloud platforms like Microsoft Azure and Google CLoud Platform. I took multiple sessions internally and externally on both the cloud platforms and have completed cloud certifications as well.
+I'm Mike Ezane with 7+years of work experience as both Data Engineer and GCP/DevOps Engineer currently working at IBM. A self-motivated Google Cloud Engineer and DevOps offering about 7+ years’ experience and skilled in GCP with experience in designing, implementing, managing, and optimizing infrastructure workloads and applications on GCP for different clients and environments. My experience spans across multiple different domains, platforms, and industries in the Cloud including cloud orchestration, security, identity and access management, monitoring and event management, governance and compliance, application delivery, data protection, image and patch management, and self-service.
 
 Is there any part time trainer vacancy available for above cloud platforms in your esteemed organisation. 
 
 Please find my profile below.
 
-* **__LinkedIn Profile:__** https://www.linkedin.com/in/vignesh-sekar-sujatha-02aa9b125/
-* **__Youtube URL:__** https://www.youtube.com/channel/UCyAnuvrJq_2JCnYm8atLE2w
+* **__LinkedIn Profile:__** www.linkedin.com/in/mike-ezane
+
 
 Looking forward to connecting on the same.
 
 Regards,
-vignesh sekar s. 
+Mike Ezane
 
 
 
