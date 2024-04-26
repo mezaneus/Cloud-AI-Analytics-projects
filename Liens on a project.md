@@ -4,7 +4,7 @@
 > TITLE: "Deleting Project in GCP"
 > 
 > Author:
-  >- Name: "Vignesh Sekar"
+  >- Name: "Mike Ezane"
   >- Designation: "Multi Cloud Architect"
   >- Tags: [Google Cloud, DataEngineer, Python, PySpark, SQL, BigData]
     
